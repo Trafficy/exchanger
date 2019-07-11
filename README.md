@@ -1,5 +1,5 @@
 <h1><a id="Surfow_exchanger_0"></a>Trafficy exchanger</h1>
-<p><a href="intro"><img src="https://gdurl.com/l6fF" alt="N|Solid"></a><br>
+<p><br>
 Trafficy exchanger is a traffic exchange software that works with Trafficy script</p>
 <h3><a id="Tech_5"></a>Tech</h3>
 <p>Trafficy exchanger uses a number of open source projects to work properly:</p>
